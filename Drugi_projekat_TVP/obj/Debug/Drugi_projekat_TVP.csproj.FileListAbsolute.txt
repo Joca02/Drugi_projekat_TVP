@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\bin\Debug\Drugi_projekat_TVP.exe.config
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\bin\Debug\Drugi_projekat_TVP.exe
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\bin\Debug\Drugi_projekat_TVP.pdb
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\obj\Debug\Drugi_projekat_TVP.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\obj\Debug\Drugi_projekat_TVP.DodajJeloForm.resources
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\obj\Debug\Drugi_projekat_TVP.DodajStavkuRacunaForm.resources
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\obj\Debug\Drugi_projekat_TVP.PrikazStavkiForm.resources
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\obj\Debug\Drugi_projekat_TVP.StartForm.resources
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\obj\Debug\Drugi_projekat_TVP.PrilogForm.resources
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\obj\Debug\Drugi_projekat_TVP.Properties.Resources.resources
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\obj\Debug\Drugi_projekat_TVP.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\obj\Debug\Drugi_projekat_TVP.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\obj\Debug\Drugi_projekat_TVP.exe
+C:\Users\pc\Desktop\Faks\DRUGA GODINA\TVP\Drugi_projekat_TVP\Drugi_projekat_TVP\obj\Debug\Drugi_projekat_TVP.pdb
